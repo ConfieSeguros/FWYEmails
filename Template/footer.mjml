@@ -1,0 +1,55 @@
+<mj-raw>
+  <!-- Footer, with social. Updated: 4/19/17 -->
+</mj-raw>
+<mj-section background-color="#00293a" padding="9px 0px 0px 0px">  
+  <mj-group vertical-align="middle" background-color="#00293a">
+    <mj-column background-color="#00293a" vertical-align="bottom" width="45%">
+      <mj-text color="#FFFFFF" align="right" padding="0px 5px 5px 0px" font-size="12px">Follow us
+      </mj-text>
+    </mj-column>
+    <mj-column background-color="#00293a" width="6%">
+      <mj-image src="http://img03.en25.com/EloquaImages/clients/ConfieSegurosHoldingIICo/{df7de0d7-9fc1-4014-9a21-543e3c06efda}_facebook.png" href="https://www.facebook.com/freewayinsurance" width="32px" height="auto" align="left" padding="0px 0px 0px 0px"/>
+    </mj-column>
+    <mj-column background-color="#00293a" width="6%">
+      <mj-image src="http://img03.en25.com/EloquaImages/clients/ConfieSegurosHoldingIICo/{a2f9a344-6a70-4922-aad7-44611feb9e93}_twitter.png" href="https://twitter.com/freewaytweet" width="32px" height="auto" align="left" padding="0px 0px 0px 0px"/>
+    </mj-column>
+    <mj-column background-color="#00293a" width="6%">
+      <mj-image src="http://img03.en25.com/EloquaImages/clients/ConfieSegurosHoldingIICo/{5d375903-6c0c-450f-9315-604602cfe932}_youtube.png" href="https://www.youtube.com/user/freewayinsurance" width="32px" height="auto" align="left" padding="0px 0px 0px 0px"/>
+    </mj-column>
+    <mj-column background-color="#00293a" width="6%">
+      <mj-image src="http://img03.en25.com/EloquaImages/clients/ConfieSegurosHoldingIICo/{50bc62fb-a2af-4122-8478-bde18fcb5a11}_gplus.png" href="https://plus.google.com/+freewayinsurance/" width="32px" height="auto" align="left" padding="0px 0px 0px 0px"/>
+    </mj-column>
+  </mj-group>
+</mj-section>
+<mj-section full-width="full-width" padding="0px 0px 0px 0px">
+  <mj-column background-color="#00293a">
+    <mj-text color="#FFFFFF" align="center" padding="5px 0px 0px 0px" font-size="12px">Auto and Health Insurance services provided by Freeway Insurance Services, Inc. - Lic # 0F82773
+    </mj-text>
+    <mj-divider border-color="#93aec3"/>
+    <mj-text color="#FFFFFF" align="center" padding="5px" font-size="12px">Freeway Insurance Services
+      <br>
+        7711 Center Drive, Suite #200
+        <br>
+          Huntington Beach, CA 92647
+          <br>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      <mj-section padding="0px 0px 0px 0px">
+        <mj-column>
+          <mj-text align="center" padding="8px 0px 5px 0px" font-size="11px" line-height="10px">You (user@email.com) are receiving this email because you purchased or showed interest in purchasing a health or auto policy through Freeway Insurance.
+          </mj-text>
+          <mj-text align="center" padding="5px 0px 5px 0px" font-size="11px" line-height="10px">
+            <a style="text-decoration: none; color: inherit;" data-targettype="sysaction" href="http://s651302597.t.en25.com/e/u?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~">Click here to 
+            </a>
+            <a data-targettype="sysaction" href="http://s651302597.t.en25.com/e/u?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~">unsubscribe
+            </a> or manage your 
+            <a data-targettype="sysaction" href="http://app.e.freewayinsurance.com/e/e?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~">subscription preferences
+            </a>.
+          </mj-text>
+          <mj-text align="center" padding="0px 0px 5px 0px" font-size="11px" line-height="10px">
+            <a href="http://www.freewayinsurance.com/privacy-policy/">Privacy Policy
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>   
