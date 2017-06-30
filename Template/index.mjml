@@ -45,7 +45,7 @@
         color: #004d95;
         }
       </mj-style>
-      <mj-container background-color="" /> 
+      <mj-container background-color="#FFFFFF" /> 
       <mj-class name="navhide" border-right="1px solid #707983" />
     </mj-attributes>
     <mj-style>
