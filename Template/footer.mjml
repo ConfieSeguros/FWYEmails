@@ -25,7 +25,7 @@
   <mj-column background-color="#00293a">
     <mj-text color="#FFFFFF" align="center" padding="5px 0px 0px 0px" font-size="12px">Auto and Health Insurance services provided by Freeway Insurance Services, Inc. - Lic # 0F82773
     </mj-text>
-    <mj-divider border-color="#93aec3"/>
+    <mj-divider padding="10px 25px 0px 25px" border-color="#93aec3"/>
     <mj-text color="#FFFFFF" align="center" padding="5px" font-size="12px">Freeway Insurance Services
       <br>
         7711 Center Drive, Suite #200
@@ -37,9 +37,9 @@
         </mj-section>
       <mj-section padding="0px 0px 0px 0px">
         <mj-column>
-          <mj-text align="center" padding="8px 0px 5px 0px" font-size="11px" line-height="10px">You (user@email.com) are receiving this email because you purchased or showed interest in purchasing a health or auto policy through Freeway Insurance.
+          <mj-text align="center" padding="8px 0px 5px 0px" font-size="11px" line-height="12px">You (user@email.com) are receiving this email because you purchased or showed interest in purchasing a health or auto policy through Freeway Insurance.
           </mj-text>
-          <mj-text align="center" padding="5px 0px 5px 0px" font-size="11px" line-height="10px">
+          <mj-text align="center" padding="5px 0px 5px 0px" font-size="11px" line-height="12px">
             <a style="text-decoration: none; color: inherit;" data-targettype="sysaction" href="http://s651302597.t.en25.com/e/u?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~">Click here to 
             </a>
             <a data-targettype="sysaction" href="http://s651302597.t.en25.com/e/u?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~">unsubscribe
