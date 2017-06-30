@@ -9,6 +9,22 @@
       <mj-all font-family="Merriweather Sans, Arial, Helvetica, sans-serif" />
       <mj-text padding="0" font-size="16px" line-height="23px" />
       <mj-style inline="inline">
+      .navhide {
+        border-right-color: #707983;
+        border width: 1px;
+        border-style: solid;
+        }
+      </mj-style>
+      <mj-style>
+      @media (max-width:480px) {
+      .navhide {
+      border-right-color:white!important;
+      border-right-width: 0px;
+      border-right-style: none;
+      }
+      }
+    </mj-style>
+      <mj-style inline="inline">
         h1, h2, h3, h4, h5, h6 {
         padding-bottom: 5px;
         color: #0047BB;
@@ -48,13 +64,7 @@
       <mj-container background-color="#FFFFFF" /> 
       <mj-class name="navhide" border-right="1px solid #707983" />
     </mj-attributes>
-    <mj-style>
-      @media screen and (max-width: 480px) {
-      *[class~=navhide] {
-      border-right: 1px solid #FFFFFF;
-      }
-      }
-    </mj-style>
+    
   </mj-head>
   <mj-body>
     <mj-container width="600px">
