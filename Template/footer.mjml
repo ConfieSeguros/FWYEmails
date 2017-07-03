@@ -3,7 +3,7 @@
 </mj-raw>
 <mj-section background-color="#00293a" padding="9px 0px 0px 0px">  
   <mj-group vertical-align="middle" background-color="#00293a">
-    <mj-column background-color="#00293a" vertical-align="bottom" width="45%">
+    <mj-column background-color="#00293a" vertical-align="bottom" width="42%">
       <mj-text color="#FFFFFF" align="right" padding="0px 5px 5px 0px" font-size="12px">Follow us
       </mj-text>
     </mj-column>
@@ -44,7 +44,8 @@
             </a>
             <a data-targettype="sysaction" href="http://s651302597.t.en25.com/e/u?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~">unsubscribe
             </a> or manage your 
-            <a data-targettype="sysaction" href="http://app.e.freewayinsurance.com/e/e?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~">subscription preferences</a>.
+            <a data-targettype="sysaction" href="http://app.e.freewayinsurance.com/e/e?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~">subscription preferences
+            </a>.
           </mj-text>
           <mj-text align="center" padding="0px 0px 5px 0px" font-size="11px" line-height="10px">
             <a href="http://www.freewayinsurance.com/privacy-policy/">Privacy Policy
