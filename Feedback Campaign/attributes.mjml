@@ -1,0 +1,63 @@
+<mj-font name="Merriweather Sans" href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700,800" />
+<mj-all font-family="Merriweather Sans, Arial, Helvetica, sans-serif" />
+<mj-text padding="0" font-size="16px" line-height="23px" />
+<mj-class name="green" color="#78BE20" />
+<mj-class name="blue" color="#0047BB" />
+<mj-image padding="0px" />
+<mj-style inline="inline">
+  .navhide {
+  border-right-color: #707983;
+  border width: 1px;
+  border-style: solid;
+  }
+</mj-style>
+<mj-style>
+  @media (max-width:480px) {
+  .navhide {
+  border-right-color:white!important;
+  border-right-width: 0px;
+  border-right-style: none;
+  }
+  .stars {
+  vertical-align: middle;
+  }
+  }
+</mj-style>
+<mj-style inline="inline">
+  h1, h2, h3, h4, h5, h6 {
+  padding-bottom: 5px;
+  color: #0047BB;
+  }
+  h1 {
+  font-size: 44px;
+  }
+  h2 {
+  font-size: 38px;
+  }
+  h3 {
+  font-size: 34px;
+  }
+  h4 {
+  font-size: 28px;
+  }
+  h5 {
+  font-size: 22px;
+  }
+  h6 {
+  font-size: 18px;
+  }
+  li, p {
+  line-height: 23px;
+  font-size: 16px;
+  }
+  p {
+  margin-bottom: 8px; !important
+  }
+  p.unsub {
+  line-height: 15px;
+  }
+  a {
+  color: #004d95;
+  }
+</mj-style>
+<mj-container background-color="#FFFFFF" />

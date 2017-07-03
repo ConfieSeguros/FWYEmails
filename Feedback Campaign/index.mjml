@@ -1,0 +1,77 @@
+<mjml>
+  <mj-raw>
+    <!-- Created by Devon Guerrero -->
+  </mj-raw>
+  <mj-head>
+    <mj-title>We Would Like to Hear Your Feedback!
+    </mj-title>
+    <mj-preview>
+    </mj-preview>
+    <mj-attributes>
+      <mj-include path="./attributes.mjml" />
+      <mj-style>
+        .stars {
+        vertical-align: top;
+        padding-bottom: 5px;
+        }
+      </mj-style>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container width="600px">
+      <mj-include path="./header.mjml" />    
+      <mj-section background-color="#fff" padding="10px 0px">
+        <mj-column>
+          <mj-text line-height="30px" mj-class="blue" align="center">
+            <h1>Thank you for your recent policy purchase at Freeway Insurance.
+            </h1>
+          </mj-text>
+          <mj-text align="center" padding="0px 10px">
+            <h2>
+              Your opinion is very important to us.
+              <br/>
+              Please take a moment and select the level of service we provided for you:
+            </h2>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 0px">
+        <mj-group>
+          <mj-column vertical-align="top" width="25%">
+            <mj-text padding="0px 8px 0px 0px" align="right" color="red">
+              <h3>Poor
+              </h3>
+            </mj-text>
+          </mj-column>
+          <mj-column css-class="stars" width="9%">
+            <mj-image href="http://app.e.freewayinsurance.com/e/f2.aspx?elqFormName=Feedback%285Star%29CampaignDC&elqSiteID=651302597&emailAddress=~~eloqua..type--emailfield..syntax--EmailAddress..innerText--EmailAddress..encodeFor--url~~&officeCode1=~~eloqua..type--emailfield..syntax--Office_Codes1..innerText--Office_Codes1..encodeFor--url~~&Rating=1&elqTrackId=fe7af91f36b64ae5b1034662d50b9c62" src="http://img.e.freewayinsurance.com/EloquaImages/clients/Confie/%7B3b9e255a-79b1-4e31-92c3-1a16c17fb90e%7D_star-1.jpg" width="53px" />
+          </mj-column>
+          <mj-column css-class="stars" width="9%">
+            <mj-image href="http://app.e.freewayinsurance.com/e/f2.aspx?elqFormName=Feedback%285Star%29CampaignDC&elqSiteID=651302597&emailAddress=~~eloqua..type--emailfield..syntax--EmailAddress..innerText--EmailAddress..encodeFor--url~~&officeCode1=~~eloqua..type--emailfield..syntax--Office_Codes1..innerText--Office_Codes1..encodeFor--url~~&Rating=2&elqTrackId=eff25d4e2b14469cae514d6f7f29ab5a" src="http://img.e.freewayinsurance.com/EloquaImages/clients/Confie/%7B01aa8f6f-7fae-492c-8016-b2abd58a0985%7D_star-2.jpg" width="53px" />
+          </mj-column>
+          <mj-column css-class="stars" width="9%">
+            <mj-image href="http://app.e.freewayinsurance.com/e/f2.aspx?elqFormName=Feedback%285Star%29CampaignDC&elqSiteID=651302597&emailAddress=~~eloqua..type--emailfield..syntax--EmailAddress..innerText--EmailAddress..encodeFor--url~~&officeCode1=~~eloqua..type--emailfield..syntax--Office_Codes1..innerText--Office_Codes1..encodeFor--url~~&Rating=3&elqTrackId=b29bb7b89b54452e96bcf835dc8cf322" src="http://img.e.freewayinsurance.com/EloquaImages/clients/Confie/%7B52014102-494f-4a2e-b727-5dc4f4e79d67%7D_star-3.jpg" width="53px" />
+          </mj-column>
+          <mj-column css-class="stars" width="9%">
+            <mj-image href="http://app.e.freewayinsurance.com/e/f2.aspx?elqFormName=5StarRatingBlindForm&elqSiteID=651302597&emailAddress=~~eloqua..type--emailfield..syntax--EmailAddress..innerText--EmailAddress..encodeFor--url~~&officeCode1=~~eloqua..type--emailfield..syntax--Office_Codes1..innerText--Office_Codes1..encodeFor--url~~&Rating=4&elqTrackId=7d8a0c0ef54446328a953c52e6984487" src="http://img.e.freewayinsurance.com/EloquaImages/clients/Confie/%7Baccde284-de45-4cf4-9d0d-793ec84182d4%7D_star-4.jpg" width="53px" />
+          </mj-column>
+          <mj-column css-class="stars" width="9%">
+            <mj-image href="http://app.e.freewayinsurance.com/e/f2.aspx?elqFormName=5StarRatingBlindForm&elqSiteID=651302597&emailAddress=~~eloqua..type--emailfield..syntax--EmailAddress..innerText--EmailAddress..encodeFor--url~~&officeCode1=~~eloqua..type--emailfield..syntax--Office_Codes1..innerText--Office_Codes1..encodeFor--url~~&Rating=5&elqTrackId=7cb95e9434fe4cc1b7a5086b6d525f18" src="http://img.e.freewayinsurance.com/EloquaImages/clients/Confie/%7B57ee40be-796d-442e-8dc0-13924e3db169%7D_star-5.jpg" width="53px" />
+          </mj-column>
+          <mj-column width="15%" vertical-align="top">
+            <mj-text padding-left="5px" padding-top="0px" align="left" color="green">
+              <h3>Excellent
+              </h3>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0px">
+        <mj-column>
+          <mj-spacer height="20px" />
+        </mj-column>
+      </mj-section>
+      <mj-include path="./footer.mjml" />
+    </mj-container>
+  </mj-body>
+</mjml>
