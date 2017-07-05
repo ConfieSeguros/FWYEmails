@@ -4,6 +4,7 @@
 <mj-button font-size="16px" font-weight="700" background-color="#78BE20" />
 <mj-class name="green" color="#78BE20" />
 <mj-class name="blue" color="#0047BB" />
+<mj-class name="nopadd" padding="0px" />
 <mj-image padding="0px" />
 <mj-style inline="inline">
   .navhide {

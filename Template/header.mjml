@@ -1,4 +1,4 @@
-<mj-wrapper>
+<mj-wrapper padding-bottom="0px">
   <mj-section padding="0px 0px 10px 0px">
     <mj-column>
       <mj-text padding="0px 0px 10px 15px" font-size="10px" line-height="15px">Not rendering correctly? 
