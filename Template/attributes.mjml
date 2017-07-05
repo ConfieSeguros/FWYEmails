@@ -1,6 +1,7 @@
 <mj-font name="Merriweather Sans" href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700,800" />
 <mj-all font-family="Merriweather Sans, Arial, Helvetica, sans-serif" />
 <mj-text padding="0" font-size="16px" line-height="23px" />
+<mj-button font-size="16px" font-weight="700" background-color="#78BE20" />
 <mj-class name="green" color="#78BE20" />
 <mj-class name="blue" color="#0047BB" />
 <mj-image padding="0px" />
