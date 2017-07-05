@@ -22,9 +22,9 @@
           <mj-text mj-class="blue" align="center">
             <h2>MJML Rocks!
             </h2>
-            
           </mj-text>
-          <mj-button href="#">Button</mj-button>
+          <mj-button href="#">Button
+          </mj-button>
         </mj-column>
         <mj-column>
           <mj-image width="200" src="http://placehold.it/200x200">
