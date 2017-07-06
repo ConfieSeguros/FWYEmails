@@ -4,7 +4,7 @@
 <mj-section background-color="#00293a" padding="9px 0px 0px 0px">  
   <mj-group vertical-align="middle" background-color="#00293a">
     <mj-column background-color="#00293a" vertical-align="bottom" width="42%">
-      <mj-text color="#FFFFFF" align="right" padding="0px 5px 5px 0px" font-size="12px">Follow us
+      <mj-text color="#FFFFFF" align="right" padding="0px 5px 5px 0px" font-size="13px">Follow us
       </mj-text>
     </mj-column>
     <mj-column background-color="#00293a" width="6%">
@@ -23,10 +23,10 @@
 </mj-section>
 <mj-section full-width="full-width" padding="0px 0px 0px 0px">
   <mj-column background-color="#00293a">
-    <mj-text color="#FFFFFF" align="center" padding="5px 0px 0px 0px" font-size="12px">Auto and Health Insurance services provided by Freeway Insurance Services, Inc. - Lic # 0F82773
+    <mj-text color="#FFFFFF" align="center" padding="5px 0px 0px 0px" font-size="13px">Auto and Health Insurance services provided by Freeway Insurance Services, Inc. - Lic # 0F82773
     </mj-text>
     <mj-divider padding="10px 25px 0px 25px" border-color="#93aec3"/>
-    <mj-text color="#FFFFFF" align="center" padding="5px" font-size="12px">Freeway Insurance Services
+    <mj-text color="#FFFFFF" align="center" padding="5px" font-size="13px">Freeway Insurance Services
       <br>
         7711 Center Drive, Suite #200
         <br>

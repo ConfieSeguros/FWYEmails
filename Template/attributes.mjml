@@ -1,5 +1,5 @@
 <mj-font name="Merriweather Sans" href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700,800" />
-<mj-all font-family="Merriweather+Sans, Arial, Helvetica, sans-serif" />
+<mj-all font-family="Arial, Helvetica, sans-serif" />
 <mj-text padding="0" font-size="16px" line-height="23px" />
 <mj-button font-size="16px" font-weight="700" background-color="#78BE20" />
 <mj-class name="green" color="#78BE20" />
@@ -7,6 +7,7 @@
 <mj-class name="nopadd" padding="0px" />
 <mj-class name="maintext" padding="0px 15px 0px 15px" />
 <mj-image padding="0px" />
+<mj-class name="footspace" letter-spacing="0px" />
 <mj-style inline="inline">
   .navhide {
   border-right-color: #707983;
