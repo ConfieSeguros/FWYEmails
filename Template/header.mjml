@@ -32,19 +32,19 @@
     </mj-column>
   </mj-section>
   <mj-section padding="0px">          
-    <mj-column mj-class="navhide" css-class="navhide">          
+    <mj-column width="37%" css-class="navhide">          
       <mj-text padding="3px 0px 3px 0px" align="center" line-height="20px" font-size="14px">
         <a style="text-decoration: none; color: #707983;" href="http://www.freewayinsurance.com/insurance-options/">INSURANCE OPTIONS
         </a>
       </mj-text>
     </mj-column>
-    <mj-column mj-class="navhide" css-class="navhide">
+    <mj-column width="34%"  css-class="navhide">
       <mj-text padding="3px 0px 3px 0px" align="center" line-height="20px" font-size="14px">
         <a style="text-decoration: none; color: #707983;" href="http://www.freewayinsurance.com/customer-service/">CUSTOMER SERVICE
         </a>
       </mj-text>
     </mj-column>
-    <mj-column>
+    <mj-column width="28%" >
       <mj-text padding="3px 0px 3px 0px" align="center" line-height="20px" font-size="14px">
         <a style="text-decoration: none; color: #707983;" href="http://www.freewayinsurance.com/resources/">RESOURCES
         </a>

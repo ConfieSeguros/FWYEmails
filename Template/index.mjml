@@ -7,13 +7,11 @@
     </mj-title>
     <mj-preview>This is the pre header text
     </mj-preview>
-    <mj-attributes>
-      <mj-include path="./attributes.mjml" />
-    </mj-attributes>
+    <mj-include path="./attributes.mjml" />
   </mj-head>
   <mj-body>
     <mj-container width="600px">
-      <mj-include path="./header.mjml" />    
+      <mj-include path="./header.mjml" />
       <mj-raw>
         <!-- 1 Row, 2 columns -->
       </mj-raw>
@@ -23,12 +21,20 @@
             <h2>MJML Rocks!
             </h2>
           </mj-text>
+          <mj-text align="center"><p>And then we want to have a nice description, right?</p></mj-text>
           <mj-button href="#">Button
           </mj-button>
         </mj-column>
         <mj-column>
           <mj-image width="200" src="http://placehold.it/200x200">
           </mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+      <mj-column>
+        <mj-text mj-class="maintext">
+          <p>And then we have some example text going on here that is nicely padded. This is great if you have text that you want to span the whole width. This uses the mj-class maintext and is then inside a P tag.</p>
+        </mj-text>
         </mj-column>
       </mj-section>
       <mj-include path="./footer.mjml" />
