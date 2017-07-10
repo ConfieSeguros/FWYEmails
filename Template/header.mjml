@@ -28,7 +28,7 @@
   </mj-section>
   <mj-section padding="0px">
     <mj-column>
-      <mj-divider padding="0px" border-width="1px" border-color="#707983" width="95%" />
+      <mj-divider padding="0px" border-width="1px" border-color="#dae0e6" width="95%" />
     </mj-column>
   </mj-section>
   <mj-section padding="0px">          
@@ -53,7 +53,7 @@
   </mj-section>
   <mj-section padding="0px">
     <mj-column>
-      <mj-divider padding="0px" border-width="1px" border-color="#707983" width="95%" />
+      <mj-divider padding="0px" border-width="1px" border-color="#dae0e6" width="95%" />
     </mj-column>
   </mj-section>
 </mj-wrapper>
