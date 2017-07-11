@@ -12,16 +12,16 @@
   <mj-body>
     <mj-container width="600px">
       <mj-include path="./header.mjml" />
-      <mj-raw>
-        <!-- 1 Row, 2 columns -->
-      </mj-raw>
       <mj-section background-color="#fff">
         <mj-column>
           <mj-text mj-class="blue" align="center">
             <h2>MJML Rocks!
             </h2>
           </mj-text>
-          <mj-text align="center"><p>And then we want to have a nice description, right?</p></mj-text>
+          <mj-text align="center">
+            <p>And then we want to have a nice description, right?
+            </p>
+          </mj-text>
           <mj-button href="#">Button
           </mj-button>
         </mj-column>
@@ -31,13 +31,33 @@
         </mj-column>
       </mj-section>
       <mj-section>
-      <mj-column>
-        <mj-text mj-class="maintext">
-          <p>And then we have some example text going on here that is nicely padded. This is great if you have text that you want to span the whole width. This uses the mj-class maintext and is then inside a P tag.</p>
-        </mj-text>
+        <mj-column>
+          <mj-text mj-class="maintext">
+            <p>And then we have some example text going on here that is nicely padded. This is great if you have text that you want to span the whole width. This uses the mj-class maintext and is then inside a P tag.
+            </p>
+          </mj-text>
         </mj-column>
       </mj-section>
-      <mj-include path="./footer.mjml" />
+            <mj-wrapper mj-class="nopadd">
+      <mj-section background-color="#fff">
+        <mj-column>
+          <mj-image padding="0px 15px 10px 15px" src="http://placehold.it/200x200" href="#" />
+          <mj-text padding="0px 0px 0px 0px" align="center"><h3><a style="text-decoration:none;color:inherit;" href="#">Some title</a></h3></mj-text>
+          <mj-text mj-class="coltext"><a style="text-decoration:none;color:inherit;" href="#"><p>Hey everyone, this is column 1. Does this look fine to everyone? <span style="font-size: 1.7em; color: #78BE20;">&rArr;</span></p></a></mj-text>
+          <mj-button href="#">Button 1
+          </mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0px 15px 10px 15px" src="http://placehold.it/200x200" href="#"/>
+          </mj-image>
+        <mj-text padding="0px 0px 0px 0px" align="center"><h3><a style="text-decoration:none;color:inherit;" href="#">Some title</a></h3></mj-text>
+        <mj-text mj-class="coltext"><a style="text-decoration:none;color:inherit;" href="#"><p>And then we have some more text in column 2. Let's make this multiple lines for effect. <span style="font-size: 1.7em; color: #78BE20;">&rArr;</span></p></a></mj-text>
+          <mj-button href="#">Button 2
+          </mj-button>
+        </mj-column>
+      </mj-section>      
+        </mj-wrapper>
+    <mj-include path="./footer.mjml" />
     </mj-container>
   </mj-body>
 </mjml>

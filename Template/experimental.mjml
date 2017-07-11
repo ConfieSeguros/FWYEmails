@@ -1,0 +1,53 @@
+<mjml>
+  <mj-head>
+  <mj-style inline="inline">
+  .navhide {
+  border-right-color: #dae0e6;
+  border-right-width: 1px;
+  border-right-style: solid;
+  }
+  .colborder {
+  border-bottom-color: white;  
+  border-bottom-style: solid;
+  }
+</mj-style>
+<mj-style>
+  
+  @media (max-width:480px) {
+  .navhide {
+  border-right-color:white!important;
+  border-right-width: 0px;
+  border-right-style: none;
+  }
+  }
+    @media (max-width:480px) {
+  .colborder {
+  border-bottom-color: #0047BB!important;
+  border-bottom-width: 4px;
+  border-bottom-style: solid;
+  }
+  .top10 {
+  padding-top: 10px!important;
+  }
+  .divider {
+  padding: 0px 0px;
+  }
+  }
+</mj-style>
+    <mj-style>
+  @media (min-width: 480px) {
+  .mobshow {
+  display: inline-block !important; width:auto !important; height:auto !important; overflow:visible !important; float:none !important; visibility:visible !important; border:none !important; padding:10px 0px;}
+  }
+  </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+      <mj-section>
+        <mj-column>
+          <mj-divider width="90%"  border-color="#0047BB"  css-class="mobshow" />
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>
