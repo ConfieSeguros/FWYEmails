@@ -10,7 +10,7 @@
   </mj-section>
   <mj-section>
     <mj-column vertical-align="top">
-      <mj-image href="http://www.freewayinsurance.com/" src="http://www.freewayinsurance.com/mailing/fwm25-04-2016/images/logo.png" width="260px" padding-left="30px" padding-top="0px" />
+      <mj-image href="http://www.freewayinsurance.com/" src="http://www.freewayinsurance.com/mailing/fwm25-04-2016/images/logo.png" width="260px" css-class="header" />
     </mj-column>
     <mj-group>
       <mj-column width="80%" vertical-align="bottom">

@@ -48,6 +48,14 @@
           <mj-divider width="90%"  border-color="#0047BB"  css-class="mobshow" />
         </mj-column>
       </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-social
+            mode="horizontal"
+            display="facebook awesome-network" text-mode="false" awesome-network-href="http://awesome-network.com/my-company" awesome-network-icon-color="#FF00FF" awesome-network-icon="http://myicon.png" />
+          
+        </mj-column>
+      </mj-section>
     </mj-container>
   </mj-body>
 </mjml>
