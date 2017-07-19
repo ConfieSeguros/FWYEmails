@@ -40,7 +40,7 @@
           <mj-text align="center" padding="8px 0px 5px 0px" font-size="11px" line-height="12px">You (user@email.com) are receiving this email because you purchased or showed interest in purchasing a health or auto policy through Freeway Insurance.
           </mj-text>
           <mj-text align="center" padding="5px 0px 5px 0px" font-size="11px" line-height="12px">
-            <a style="text-decoration: none; color: inherit;" data-targettype="sysaction" href="http://s651302597.t.en25.com/e/u?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~">Click here to 
+            <a style="text-decoration:none; color:#000000;" data-targettype="sysaction" href="http://s651302597.t.en25.com/e/u?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~">Click here to 
             </a>
             <a data-targettype="sysaction" href="http://s651302597.t.en25.com/e/u?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~">unsubscribe
             </a> or manage your 
